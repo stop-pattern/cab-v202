@@ -1,0 +1,3 @@
+[submodule "lib/TR.BIDS.ArduinoLibs"]
+	path = lib/TR.BIDS.ArduinoLibs
+	url = https://github.com/TetsuOtter/TR.BIDS.ArduinoLibs.git
